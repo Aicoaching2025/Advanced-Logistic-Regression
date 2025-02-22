@@ -1,6 +1,4 @@
-### Advanced Logistic Regression – Assumptions, Thresholds, ROC, & Class Imbalance
-
-```markdown
+``markdown
 # Advanced Logistic Regression: Assumptions, Prediction Thresholds, ROC Curves & Class Imbalance
 
 This project dives deeper into logistic regression by exploring its underlying assumptions, adjusting prediction thresholds, analyzing ROC curves, and addressing class imbalance issues. Using generated data, the project demonstrates how these factors affect model performance and reliability, which is crucial when making risk-sensitive decisions in the financial industry.
