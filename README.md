@@ -101,3 +101,17 @@ In scenarios like credit risk prediction or fraud detection, the assumptions beh
    ```bash
    git clone https://github.com/aicoaching2025/advanced-logistic-regression.git
    cd advanced-logistic-regression
+
+2. **Install Dependencies**
+    Ensure you have Python 3.7+ installed, then run:
+    pip install numpy pandas matplotlib scikit-learn
+
+3. **Run the Project**:
+    python advanced_logistic_regression.py
+
+**Validate these approaches using other financial datasets**
+  Explore advanced techniques such as ensemble methods or cost-sensitive learning.
+  Develop an interactive dashboard for real-time threshold optimization and risk monitoring.
+
+**Connect**
+For further discussion, collaborations, or career opportunities, please connect with me on LinkedIn, https:www.linkedin.com/in/candace215 or email at your.email@example.com.
